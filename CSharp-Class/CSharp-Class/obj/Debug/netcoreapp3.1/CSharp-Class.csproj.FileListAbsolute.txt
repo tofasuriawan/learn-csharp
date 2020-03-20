@@ -1,0 +1,11 @@
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Class\CSharp-Class\bin\Debug\netcoreapp3.1\CSharp-Class.exe
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Class\CSharp-Class\bin\Debug\netcoreapp3.1\CSharp-Class.deps.json
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Class\CSharp-Class\bin\Debug\netcoreapp3.1\CSharp-Class.runtimeconfig.json
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Class\CSharp-Class\bin\Debug\netcoreapp3.1\CSharp-Class.runtimeconfig.dev.json
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Class\CSharp-Class\bin\Debug\netcoreapp3.1\CSharp-Class.dll
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Class\CSharp-Class\bin\Debug\netcoreapp3.1\CSharp-Class.pdb
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Class\CSharp-Class\obj\Debug\netcoreapp3.1\CSharp-Class.csprojAssemblyReference.cache
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Class\CSharp-Class\obj\Debug\netcoreapp3.1\CSharp-Class.AssemblyInfoInputs.cache
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Class\CSharp-Class\obj\Debug\netcoreapp3.1\CSharp-Class.AssemblyInfo.cs
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Class\CSharp-Class\obj\Debug\netcoreapp3.1\CSharp-Class.dll
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Class\CSharp-Class\obj\Debug\netcoreapp3.1\CSharp-Class.pdb
