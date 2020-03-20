@@ -1,0 +1,8 @@
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\TweetManager\bin\Debug\netstandard2.0\TweetManager.deps.json
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\TweetManager\bin\Debug\netstandard2.0\TweetManager.dll
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\TweetManager\bin\Debug\netstandard2.0\TweetManager.pdb
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\TweetManager\obj\Debug\netstandard2.0\TweetManager.csprojAssemblyReference.cache
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\TweetManager\obj\Debug\netstandard2.0\TweetManager.AssemblyInfoInputs.cache
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\TweetManager\obj\Debug\netstandard2.0\TweetManager.AssemblyInfo.cs
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\TweetManager\obj\Debug\netstandard2.0\TweetManager.dll
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\TweetManager\obj\Debug\netstandard2.0\TweetManager.pdb

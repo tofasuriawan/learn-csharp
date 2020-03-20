@@ -1,0 +1,9 @@
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Console\bin\Debug\Twitter-Console.exe.config
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Console\bin\Debug\Twitter-Console.exe
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Console\bin\Debug\Twitter-Console.pdb
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Console\obj\Debug\Twitter-Console.csprojAssemblyReference.cache
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Console\obj\Debug\Twitter-Console.exe
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Console\obj\Debug\Twitter-Console.pdb
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Console\bin\Debug\TweetManager.dll
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Console\bin\Debug\TweetManager.pdb
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Console\obj\Debug\Twitter-Console.csproj.CopyComplete

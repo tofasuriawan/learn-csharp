@@ -1,0 +1,12 @@
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Form\bin\Debug\Twitter-Form.exe.config
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Form\bin\Debug\Twitter-Form.exe
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Form\bin\Debug\Twitter-Form.pdb
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Form\obj\Debug\Twitter-Form.csprojAssemblyReference.cache
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Form\obj\Debug\Twitter_Form.Properties.Resources.resources
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Form\obj\Debug\Twitter-Form.csproj.GenerateResource.cache
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Form\obj\Debug\Twitter-Form.exe
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Form\obj\Debug\Twitter-Form.pdb
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Form\bin\Debug\TweetManager.dll
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Form\bin\Debug\TweetManager.pdb
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Form\obj\Debug\Twitter_Form.Twitter.resources
+C:\Users\Tofa Suriawan\Documents\Learn C#\CSharp-Twitter-Application\Twitter-Form\obj\Debug\Twitter-Form.csproj.CopyComplete
