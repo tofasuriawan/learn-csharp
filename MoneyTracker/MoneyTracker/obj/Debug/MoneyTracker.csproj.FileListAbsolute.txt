@@ -1,0 +1,11 @@
+C:\Users\Tofa Suriawan\Documents\GitHub\learn-csharp\MoneyTracker\MoneyTracker\bin\Debug\MoneyTracker.exe.config
+C:\Users\Tofa Suriawan\Documents\GitHub\learn-csharp\MoneyTracker\MoneyTracker\bin\Debug\MoneyTracker.exe
+C:\Users\Tofa Suriawan\Documents\GitHub\learn-csharp\MoneyTracker\MoneyTracker\bin\Debug\MoneyTracker.pdb
+C:\Users\Tofa Suriawan\Documents\GitHub\learn-csharp\MoneyTracker\MoneyTracker\obj\Debug\MoneyTracker.csprojAssemblyReference.cache
+C:\Users\Tofa Suriawan\Documents\GitHub\learn-csharp\MoneyTracker\MoneyTracker\obj\Debug\MoneyTracker.Properties.Resources.resources
+C:\Users\Tofa Suriawan\Documents\GitHub\learn-csharp\MoneyTracker\MoneyTracker\obj\Debug\MoneyTracker.csproj.GenerateResource.cache
+C:\Users\Tofa Suriawan\Documents\GitHub\learn-csharp\MoneyTracker\MoneyTracker\obj\Debug\MoneyTracker.exe
+C:\Users\Tofa Suriawan\Documents\GitHub\learn-csharp\MoneyTracker\MoneyTracker\obj\Debug\MoneyTracker.pdb
+C:\Users\Tofa Suriawan\Documents\GitHub\learn-csharp\MoneyTracker\MoneyTracker\obj\Debug\MoneyTracker.frmLogin.resources
+C:\Users\Tofa Suriawan\Documents\GitHub\learn-csharp\MoneyTracker\MoneyTracker\obj\Debug\MoneyTracker.MainForm.resources
+C:\Users\Tofa Suriawan\Documents\GitHub\learn-csharp\MoneyTracker\MoneyTracker\obj\Debug\MoneyTracker.ChangePassword.resources
